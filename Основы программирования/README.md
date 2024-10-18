@@ -16,7 +16,7 @@
 - [Telegram важное](https://t.me/+TrkaJQNAvmVkYjk6)
 - [Telegram спам](https://t.me/+P7FY7vt4qCM3NTZi)
 
-## Влад Сергей (aka хуй сдашь на 10)
+## Влад Сергей (aka фиг сдашь на 10)
 Запись на защиту лаб через бота в C++ чате группы
 
 [Очередь записавшихся (read-only)](https://docs.google.com/spreadsheets/d/1H08Xgnzcr0TwwKpMiZYofUN3l9aidC0kkV2oNFL3Sq4/edit?gid=1767016288#gid=1767016288)
