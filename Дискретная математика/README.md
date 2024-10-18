@@ -8,4 +8,7 @@
 - [Discord](https://discord.gg/SkukcHdc) - запрещен законодательством РФ
 ## Книги
 - Хаггарти - Дискретная математика для программистов
+- Kenneth H. Rosen - Discrete mathematics and its application
 - Кнут - Конкретная математика
+
+Книги иду в порядке усложнения
